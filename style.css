@@ -8,8 +8,9 @@ h1{
 .colorOnly{
     color: orange;
 }
-section{
+.flex-cont{
     display: flex;
+    margin-bottom: 150px;
 }
 .width-half{
     width: 50%;
@@ -39,4 +40,39 @@ section{
 }
 .dream-big{
     display: flex;
+}
+.colorOnly2{
+    color: tomato;
+}
+  
+.exp-1{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 3%;
+    border-radius: 10px;
+  
+}
+h2{
+    font-size: 45px;
+}
+.Exp-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+#Web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#WebD{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,coral);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
