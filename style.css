@@ -30,3 +30,13 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.halfM{
+    width: 50%;
+    padding-left: 5%;
+}
+.halfM img{
+    width: 85%;
+}
+.dream-big{
+    display: flex;
+}
